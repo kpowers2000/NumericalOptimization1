@@ -4,4 +4,6 @@ I have created a Gradient Projection Method using Steepest Descent to numericall
 
 I also did an investigation into the Damped Spectral Square Root Preconditioning Method.
 
-Please see the [Project Documentation](Constrained_Least_Squares_Optimization.pdf) for detailed information. This paper also shows that controlled levels of error added to the Damped Spectral Square Root reduces the convergence rate of the Gradient Projection Method by a statistically significant factor.
+Please see the associated research paper, [Constrained Least Squares Optimizations: An Investigation of Damped Spectral Square Root Preconditioning in Gradient Projection Methods](Constrained_Least_Squares_Optimization.pdf) for detailed information. 
+
+This paper also shows that controlled levels of error added to the Damped Spectral Square Root reduces the convergence rate of the Gradient Projection Method by a statistically significant factor.
